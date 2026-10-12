@@ -1,1 +1,1 @@
-# 23-patrones-de-diseno
+# patrones-diseno-java
